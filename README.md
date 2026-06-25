@@ -57,4 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

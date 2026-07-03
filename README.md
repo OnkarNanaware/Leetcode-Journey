@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
+| [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -94,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
+| [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
 | ------- |
@@ -122,13 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2413-smallest-even-multiple) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |

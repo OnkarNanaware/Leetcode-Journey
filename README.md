@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |

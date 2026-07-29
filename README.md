@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1833-maximum-ice-cream-bars) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2413-smallest-even-multiple) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->

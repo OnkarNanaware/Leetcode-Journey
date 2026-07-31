@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |

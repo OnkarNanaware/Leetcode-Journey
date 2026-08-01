@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0860-lemonade-change) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -266,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

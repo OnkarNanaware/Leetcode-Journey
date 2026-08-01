@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

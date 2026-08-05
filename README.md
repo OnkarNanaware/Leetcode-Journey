@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3620-network-recovery-pathways) |

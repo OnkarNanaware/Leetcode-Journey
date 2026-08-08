@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 ## Memoization
 |  |
 | ------- |

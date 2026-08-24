@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1406-stone-game-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1563-stone-game-v) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |

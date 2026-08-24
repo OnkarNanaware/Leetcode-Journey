@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3699-number-of-zigzag-arrays-i) |

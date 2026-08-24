@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1563-stone-game-v) |
 | [1765-map-of-highest-peak](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1833-maximum-ice-cream-bars) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |

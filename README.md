@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
@@ -394,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

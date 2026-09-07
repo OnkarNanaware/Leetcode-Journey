@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1765-map-of-highest-peak](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1765-map-of-highest-peak) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -415,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

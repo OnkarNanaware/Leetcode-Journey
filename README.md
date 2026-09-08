@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0516-longest-palindromic-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |

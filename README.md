@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

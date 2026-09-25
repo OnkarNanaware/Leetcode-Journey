@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1765-map-of-highest-peak](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1765-map-of-highest-peak) |
 | [2685-count-the-number-of-complete-components](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 ## Longest Common Subsequence
 |  |
 | ------- |

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0877-stone-game) |
+| [1049-last-stone-weight-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0940-distinct-subsequences-ii) |
+| [1049-last-stone-weight-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
@@ -465,11 +467,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 ## Quicksort
 |  |
 | ------- |

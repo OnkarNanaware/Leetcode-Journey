@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2578-split-with-minimum-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -506,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->

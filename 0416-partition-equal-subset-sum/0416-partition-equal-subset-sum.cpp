@@ -1,25 +1,24 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int totalsum=0;
-        for(int i=0;i<nums.size();i++)
-        {
-            totalsum+=nums[i];
-        }
-        if(totalsum%2!=0) return false;
 
-        int target=totalsum/2;
-        
-        vector<bool>dp(target+1,false);
-        dp[0]=true;
+    bool canPartition(vector<int>& nums) {
+        int tsum=0;
         for(int x:nums)
         {
-            for(int j=target;j>=x;j--)
+            tsum+=x;
+        }
+        if(tsum %2!=0) return false;
+        int tar=tsum/2;
+       vector<bool>dp(tar+1,false);
+       dp[0]=true;//base case bhul gya tha 
+        for(int z:nums)
+        {
+            for(int j=tar;j>=z;j--)
             {
-                dp[j]=dp[j]||dp[j-x];
+            dp[j]=dp[j]||dp[j-z];
             }
         }
-        return dp[target];
-
+         return dp[tar];
     }
+   
 };

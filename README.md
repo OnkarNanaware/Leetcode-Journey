@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -516,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

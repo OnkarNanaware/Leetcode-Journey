@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0583-delete-operation-for-two-strings) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 ## Longest Common Subsequence

@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Longest Increasing Subsequence

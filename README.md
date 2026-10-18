@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1765-map-of-highest-peak](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -487,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Minimax
 |  |
 | ------- |
@@ -543,10 +550,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -571,4 +580,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->

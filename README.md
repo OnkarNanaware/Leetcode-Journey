@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1765-map-of-highest-peak) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0542-01-matrix) |
+| [1254-number-of-closed-islands](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |

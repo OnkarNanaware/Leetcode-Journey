@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0729-my-calendar-i) |
 | [0860-lemonade-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1035-uncrossed-lines) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0729-my-calendar-i) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0729-my-calendar-i) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -527,11 +530,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0729-my-calendar-i) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0729-my-calendar-i) |
 ## Knapsack Problem
 |  |
 | ------- |

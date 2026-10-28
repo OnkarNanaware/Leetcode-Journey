@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |

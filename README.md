@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0486-predict-the-winner) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |

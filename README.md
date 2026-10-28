@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0056-merge-intervals) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/0001-two-sum) |
 | [1048-longest-string-chain](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1189-maximum-number-of-balloons) |

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2578-split-with-minimum-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1833-maximum-ice-cream-bars) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2578-split-with-minimum-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1291-sequential-digits) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3886-sum-of-sortable-integers](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3886-sum-of-sortable-integers) |

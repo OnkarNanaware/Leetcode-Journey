@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3046-split-the-array](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3731-find-missing-elements) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/OnkarNanaware/Leetcode-Journey/tree/master/3524-find-x-value-of-array-i) |
